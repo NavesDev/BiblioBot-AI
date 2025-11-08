@@ -15,9 +15,9 @@
 <p align="center"><em>O cérebro da biblioteca na palma da sua mão.</em></p>
 
 ### 🎯 Sobre o Projeto
-O **BiblioBot-AI** é um assistente de inteligência artificial focado no atendimento geral em bibliotecas. Ele foi desenhado para auxiliar usuários, funcionários e gerentes, fornecendo acesso instantâneo a informações sobre o acervo, disponibilidade de livros e outras métricas.
+O **BiblioBot-AI** é um assistente de inteligência artificial focado no atendimento geral em bibliotecas. Este projeto é um trabalho acadêmico desenvolvido para o meu curso de ensino superior.
 
-O sistema utiliza arquivos JSON, que representam as bibliotecas físicas, como sua base de conhecimento principal.
+Ele foi desenhado para auxiliar usuários, funcionários e gerentes, fornecendo acesso instantâneo a informações sobre o acervo, disponibilidade de livros e outras métricas. O sistema utiliza arquivos JSON, que representam as bibliotecas físicas, como sua base de conhecimento principal.
 
 ### ✨ Funcionalidades
 * **IA Generativa:** Utiliza a API do Google Gemini para fornecer respostas inteligentes e contextuais.
@@ -59,9 +59,9 @@ Siga estas instruções para obter uma cópia local do projeto em funcionamento.
 <p align="center"><em>The library's brain in the palm of your hand.</em></p>
 
 ### 🎯 About The Project
-**BiblioBot-AI** is an artificial intelligence assistant focused on general support in libraries. It is designed to assist users, staff, and managers by providing instant access to information about the collection, book availability, and other metrics.
+**BiblioBot-AI** is an artificial intelligence assistant focused on general support in libraries. This project is an academic work developed for my higher education course.
 
-The system uses JSON files, which represent the physical libraries, as its primary knowledge base.
+It is designed to assist users, staff, and managers by providing instant access to information about the collection, book availability, and other metrics. The system uses JSON files, which represent the physical libraries, as its primary knowledge base.
 
 ### ✨ Features
 * **Generative AI:** Uses the Google Gemini API to provide intelligent and contextual responses.
