@@ -36,7 +36,7 @@ Siga estas instruções para obter uma cópia local do projeto em funcionamento.
 1.  Certifique-se de ter o **Python 3.12 ou superior** instalado.
 2.  Clone este repositório:
     ```bash
-    git clone [https://github.com/](https://github.com/)[seu-usuario]/BiblioBot-AI.git
+    git clone [https://github.com/](https://github.com/)[NavesDev]/BiblioBot-AI.git
     ```
 3.  Acesse a pasta do projeto e instale as dependências:
     ```bash
@@ -80,7 +80,7 @@ Follow these instructions to get a local copy of the project up and running.
 1.  Ensure you have **Python 3.12 or higher** installed.
 2.  Clone this repository:
     ```bash
-    git clone [https://github.com/](https://github.com/)[your-user]/BiblioBot-AI.git
+    git clone [https://github.com/](https://github.com/)[NavesDev]/BiblioBot-AI.git
     ```
 3.  Access the project folder and install the dependencies:
     ```bash
