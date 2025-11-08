@@ -1,0 +1,56 @@
+{
+  "nome": "Biblioteca Pública de Taguatinga (Machado de Assis)",
+  "local": "Brasília-DF, Taguatinga, CNB 01, Área Especial",
+  "livros": [
+    {
+      "titulo": "Battle Royale",
+      "autor": "Koushun Takami",
+      "empréstimos": 215,
+      "categorias": ["Ficção", "Ação", "Distopia"],
+      "descrição_breve": "Um grupo de estudantes é forçado a lutar até a morte em uma ilha deserta.",
+      "ano_publicacao": 1999,
+      "quantidade_total": 4,
+      "quantidade_disponivel": 2
+    },
+    {
+      "titulo": "Pense em Python: Pense como um Cientista da Computação",
+      "autor": "Allen B. Downey",
+      "empréstimos": 180,
+      "categorias": ["Tecnologia", "Programação", "Python", "Iniciante"],
+      "descrição_breve": "Uma introdução à programação e ao Python, focada na resolução de problemas.",
+      "ano_publicacao": 2012,
+      "quantidade_total": 6,
+      "quantidade_disponivel": 6
+    },
+    {
+      "titulo": "A Revolução dos Bichos",
+      "autor": "George Orwell",
+      "empréstimos": 310,
+      "categorias": ["Distopia", "Clássico", "Sátira Política"],
+      "descrição_breve": "Uma sátira sobre a corrupção do poder, contada através de animais de fazenda.",
+      "ano_publicacao": 1945,
+      "quantidade_total": 8,
+      "quantidade_disponivel": 3
+    },
+    {
+      "titulo": "O Sol é para Todos",
+      "autor": "Harper Lee",
+      "empréstimos": 240,
+      "categorias": ["Clássico", "Romance", "Drama Jurídico"],
+      "descrição_breve": "A história de injustiça racial no sul dos EUA, vista pelos olhos de uma criança.",
+      "ano_publicacao": 1960,
+      "quantidade_total": 5,
+      "quantidade_disponivel": 1
+    },
+    {
+      "titulo": "Vidas Secas",
+      "autor": "Graciliano Ramos",
+      "empréstimos": 190,
+      "categorias": ["Clássico", "Brasileiro", "Romance"],
+      "descrição_breve": "A luta de uma família de retirantes nordestinos contra a seca e a miséria.",
+      "ano_publicacao": 1938,
+      "quantidade_total": 7,
+      "quantidade_disponivel": 7
+    }
+  ]
+}

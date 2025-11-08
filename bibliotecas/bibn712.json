@@ -1,0 +1,56 @@
+{
+  "nome": "Ponto de Leitura 712 Norte",
+  "local": "Brasília-DF, Asa Norte, SCLRN 712",
+  "livros": [
+    {
+      "titulo": "Duna",
+      "autor": "Frank Herbert",
+      "empréstimos": 189,
+      "categorias": ["Ficção Científica", "Clássico", "Aventura"],
+      "descrição_breve": "A jornada de Paul Atreides no planeta deserto de Arrakis.",
+      "ano_publicacao": 1965,
+      "quantidade_total": 4,
+      "quantidade_disponivel": 1
+    },
+    {
+      "titulo": "O Programador Pragmático: De Aprendiz a Mestre",
+      "autor": "Andrew Hunt & David Thomas",
+      "empréstimos": 112,
+      "categorias": ["Tecnologia", "Programação", "Carreira"],
+      "descrição_breve": "Dicas e melhores práticas para se tornar um desenvolvedor mais eficaz e produtivo.",
+      "ano_publicacao": 1999,
+      "quantidade_total": 3,
+      "quantidade_disponivel": 3
+    },
+    {
+      "titulo": "Neuromancer",
+      "autor": "William Gibson",
+      "empréstimos": 98,
+      "categorias": ["Ficção Científica", "Cyberpunk", "Cult"],
+      "descrição_breve": "O hacker Case é lançado em uma última missão no ciberespaço.",
+      "ano_publicacao": 1984,
+      "quantidade_total": 2,
+      "quantidade_disponivel": 0
+    },
+    {
+      "titulo": "O Poder do Hábito",
+      "autor": "Charles Duhigg",
+      "empréstimos": 250,
+      "categorias": ["Autoajuda", "Psicologia", "Não-Ficção"],
+      "descrição_breve": "Como os hábitos funcionam e como podemos mudá-los.",
+      "ano_publicacao": 2012,
+      "quantidade_total": 5,
+      "quantidade_disponivel": 5
+    },
+    {
+      "titulo": "O Conto da Aia",
+      "autor": "Margaret Atwood",
+      "empréstimos": 130,
+      "categorias": ["Distopia", "Ficção", "Romance"],
+      "descrição_breve": "A vida de Offred na República de Gilead, uma sociedade totalitária.",
+      "ano_publicacao": 1985,
+      "quantidade_total": 3,
+      "quantidade_disponivel": 1
+    }
+  ]
+}

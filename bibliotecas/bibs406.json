@@ -1,0 +1,76 @@
+{
+  "nome": "Biblioteca 406 Sul",
+  "local": "Brasília-DF, Asa Sul, SQS 406 sul",
+  "livros": [
+    {
+      "titulo": "Dom Casmurro",
+      "autor": "Machado de Assis",
+      "empréstimos": 152,
+      "categorias": ["Clássico", "Romance", "Brasileiro"],
+      "descrição_breve": "A clássica história do ciumento Bentinho e da enigmática Capitu.",
+      "ano_publicacao": 1899,
+      "quantidade_total": 5,
+      "quantidade_disponivel": 2
+    },
+    {
+      "titulo": "Código Limpo: Habilidades Práticas do Agile Software",
+      "autor": "Robert C. Martin (Uncle Bob)",
+      "empréstimos": 85,
+      "categorias": ["Tecnologia", "Programação", "Software"],
+      "descrição_breve": "Um guia essencial para escrever código legível, manutenível e de alta qualidade.",
+      "ano_publicacao": 2008,
+      "quantidade_total": 3,
+      "quantidade_disponivel": 1
+    },
+    {
+      "titulo": "O Guia do Mochileiro das Galáxias",
+      "autor": "Douglas Adams",
+      "empréstimos": 210,
+      "categorias": ["Ficção Científica", "Comédia", "Cult"],
+      "descrição_breve": "A hilária jornada de Arthur Dent pelo espaço após a destruição da Terra.",
+      "ano_publicacao": 1979,
+      "quantidade_total": 4,
+      "quantidade_disponivel": 4
+    },
+    {
+      "titulo": "1984",
+      "autor": "George Orwell",
+      "empréstimos": 190,
+      "categorias": ["Distopia", "Ficção Científica", "Política"],
+      "descrição_breve": "A aterrorizante visão de um futuro totalitário sob a vigilância do Grande Irmão.",
+      "ano_publicacao": 1949,
+      "quantidade_total": 6,
+      "quantidade_disponivel": 0
+    },
+    {
+      "titulo": "O Hobbit",
+      "autor": "J.R.R. Tolkien",
+      "empréstimos": 230,
+      "categorias": ["Fantasia", "Aventura", "Clássico"],
+      "descrição_breve": "A inesperada aventura de Bilbo Bolseiro para recuperar o tesouro dos anões.",
+      "ano_publicacao": 1937,
+      "quantidade_total": 5,
+      "quantidade_disponivel": 3
+    },
+    {
+      "titulo": "A Sutil Arte de Ligar o F*da-se",
+      "autor": "Mark Manson",
+      "empréstimos": 305,
+      "categorias": ["Autoajuda", "Não-Ficção", "Comportamento"],
+      "descrição_breve": "Uma abordagem contraintuitiva para viver uma vida boa e com propósito.",
+      "ano_publicacao": 2016,
+      "quantidade_total": 7,
+      "quantidade_disponivel": 7
+    },
+    {
+      "titulo": "Rápido e Devagar: Duas Formas de Pensar",
+      "autor": "Daniel Kahneman",
+      "empréstimos": 78,
+      "categorias": ["Psicologia", "Economia", "Não-Ficção"],
+      "descrição_breve": "Uma exploração sobre os dois sistemas que moldam nosso julgamento e tomada de decisão.",
+      "ano_publicacao": 2011,
+      "quantidade_total": 2,
+      "quantidade_disponivel": 1
+    }
+  ]
+}
