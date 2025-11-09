@@ -1,56 +1,76 @@
 {
-  "nome": "Biblioteca Pública de Taguatinga (Machado de Assis)",
-  "local": "Brasília-DF, Taguatinga, CNB 01, Área Especial",
+  "nome": "Biblioteca Nacional de Brasília",
+  "local": "Brasília-DF, Setor Cultural Sul, Lote 2 (Esplanada dos Ministérios)",
   "livros": [
     {
-      "titulo": "Battle Royale",
-      "autor": "Koushun Takami",
-      "empréstimos": 215,
-      "categorias": ["Ficção", "Ação", "Distopia"],
-      "descrição_breve": "Um grupo de estudantes é forçado a lutar até a morte em uma ilha deserta.",
-      "ano_publicacao": 1999,
-      "quantidade_total": 4,
-      "quantidade_disponivel": 2
-    },
-    {
-      "titulo": "Pense em Python: Pense como um Cientista da Computação",
-      "autor": "Allen B. Downey",
-      "empréstimos": 180,
-      "categorias": ["Tecnologia", "Programação", "Python", "Iniciante"],
-      "descrição_breve": "Uma introdução à programação e ao Python, focada na resolução de problemas.",
-      "ano_publicacao": 2012,
-      "quantidade_total": 6,
-      "quantidade_disponivel": 6
-    },
-    {
-      "titulo": "A Revolução dos Bichos",
-      "autor": "George Orwell",
-      "empréstimos": 310,
-      "categorias": ["Distopia", "Clássico", "Sátira Política"],
-      "descrição_breve": "Uma sátira sobre a corrupção do poder, contada através de animais de fazenda.",
-      "ano_publicacao": 1945,
-      "quantidade_total": 8,
-      "quantidade_disponivel": 3
-    },
-    {
-      "titulo": "O Sol é para Todos",
-      "autor": "Harper Lee",
-      "empréstimos": 240,
-      "categorias": ["Clássico", "Romance", "Drama Jurídico"],
-      "descrição_breve": "A história de injustiça racial no sul dos EUA, vista pelos olhos de uma criança.",
-      "ano_publicacao": 1960,
+      "titulo": "Arquitetura Limpa: O Guia do Artesão para Estrutura e Design de Software",
+      "autor": "Robert C. Martin (Uncle Bob)",
+      "empréstimos": 130,
+      "categorias": ["Tecnologia", "Programação", "Arquitetura de Software"],
+      "descrição_breve": "Princípios de design de software para criar sistemas robustos e fáceis de manter.",
+      "ano_publicacao": 2017,
       "quantidade_total": 5,
       "quantidade_disponivel": 1
     },
     {
-      "titulo": "Vidas Secas",
-      "autor": "Graciliano Ramos",
-      "empréstimos": 190,
+      "titulo": "Grande Sertão: Veredas",
+      "autor": "João Guimarães Rosa",
+      "empréstimos": 160,
       "categorias": ["Clássico", "Brasileiro", "Romance"],
-      "descrição_breve": "A luta de uma família de retirantes nordestinos contra a seca e a miséria.",
-      "ano_publicacao": 1938,
+      "descrição_breve": "O monólogo épico do jagunço Riobaldo sobre a vida, o amor e o diabo no sertão.",
+      "ano_publicacao": 1956,
       "quantidade_total": 7,
-      "quantidade_disponivel": 7
+      "quantidade_disponivel": 6
+    },
+    {
+      "titulo": "Os Donos do Poder: Formação do Patronato Político Brasileiro",
+      "autor": "Raymundo Faoro",
+      "empréstimos": 78,
+      "categorias": ["História do Brasil", "Sociologia", "Política"],
+      "descrição_breve": "Uma análise clássica sobre a formação do patronato político brasileiro.",
+      "ano_publicacao": 1958,
+      "quantidade_total": 3,
+      "quantidade_disponivel": 0
+    },
+    {
+      "titulo": "Padrões de Design: Soluções Reutilizáveis para Software Orientado a Objetos (GoF)",
+      "autor": "Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides",
+      "empréstimos": 65,
+      "categorias": ["Tecnologia", "Programação", "Engenharia de Software"],
+      "descrição_breve": "O livro fundamental que introduziu os 23 padrões de design do 'Gang of Four'.",
+      "ano_publicacao": 1994,
+      "quantidade_total": 4,
+      "quantidade_disponivel": 2
+    },
+    {
+      "titulo": "A Estrutura das Revoluções Científicas",
+      "autor": "Thomas S. Kuhn",
+      "empréstimos": 92,
+      "categorias": ["Ciência", "Filosofia", "Acadêmico"],
+      "descrição_breve": "Uma análise fundamental sobre como a ciência progride através de 'mudanças de paradigma'.",
+      "ano_publicacao": 1962,
+      "quantidade_total": 4,
+      "quantidade_disponivel": 3
+    },
+    {
+      "titulo": "Macunaíma",
+      "autor": "Mário de Andrade",
+      "empréstimos": 115,
+      "categorias": ["Modernismo", "Brasileiro", "Clássico"],
+      "descrição_breve": "A rapsódia do herói sem nenhum caráter e suas aventuras pelo Brasil.",
+      "ano_publicacao": 1928,
+      "quantidade_total": 5,
+      "quantidade_disponivel": 5
+    },
+    {
+      "titulo": "Casa-Grande & Senzala",
+      "autor": "Gilberto Freyre",
+      "empréstimos": 88,
+      "categorias": ["Sociologia", "História do Brasil", "Antropologia"],
+      "descrição_breve": "Estudo clássico sobre a formação da sociedade brasileira sob o regime patriarcal.",
+      "ano_publicacao": 1933,
+      "quantidade_total": 3,
+      "quantidade_disponivel": 1
     }
   ]
 }

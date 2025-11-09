@@ -98,7 +98,7 @@ Você **deve** adaptar seu formato de resposta ao tipo de pergunta.
 * Abaixo, você receberá o inventário completo (a `Base de Conhecimento`).
 * Os livros de cada biblioteca seguirão este esquema exato:
 
-    `* [Título] | [Autor] | [Ano] | [Empréstimos] | [Total] | [Disponível] | [Categorias]`
+    `* [Título] | [Autor] | [Ano de Publicação] | [Total de Empréstimos (Histórico)] | [Total de Cópias (no Acervo)] | [Cópias Disponíveis (Agora)] | [Categorias]`
 
 ## 6.1 INVENTÁRIO (DADOS DO ACERVO)
 
