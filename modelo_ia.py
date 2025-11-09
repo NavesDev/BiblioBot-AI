@@ -1,6 +1,10 @@
 from google import genai;
 from pathlib import Path;
 from constantes import PASTA_RAIZ;
+from google.genai import types
+import os;
+from dotenv import load_dotenv;
+load_dotenv()
 
 LIVROS_PREFIXO = "* "
 
@@ -8,6 +12,7 @@ LIVROS_PREFIXO = "* "
 # OBJETO PARA GERENCIAR O BIBLIOBOT
 class BliblioAi:
 
+    
     ## INICIALIZA A IA E SUA INSTRUÇÃO
     def __init__(self, bibliotecas: list[dict[str,any]]):
         with open(PASTA_RAIZ / "system-instruction.md", 'r', encoding='utf-8') as f:
@@ -32,7 +37,15 @@ class BliblioAi:
         
         system_instruction = system_instruction.format(base_de_conhecimento = base_de_conhecimento)
 
+        self.client = genai.Client(api_key=os.environ.get("GEMINI_API_KEY"))
+        self.chat = self.client.chats.create(model="gemini-2.5-flash",config=types.GenerateContentConfig(
+            system_instruction=system_instruction,
+            temperature= 0.2 # NÍVEL DE ALEATORIEDADE DAS RESPOSTAS. MÍNIMO 0, MÁXIMO 1
+        ))
         self.system_instruction = system_instruction
-
-            
+    def fazer_pergunta(self,texto:str):
+        if(texto.strip() != ""):
+            resposta = self.chat.send_message(texto)
+            return resposta.text
+        
        
