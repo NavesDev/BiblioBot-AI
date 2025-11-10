@@ -8,11 +8,9 @@ load_dotenv()
 
 LIVROS_PREFIXO = "* "
 
-
 # OBJETO PARA GERENCIAR O BIBLIOBOT
 class BliblioAi:
 
-    
     ## INICIALIZA A IA E SUA INSTRUÇÃO
     def __init__(self, bibliotecas: list[dict[str,any]]):
         with open(PASTA_RAIZ / "system-instruction.md", 'r', encoding='utf-8') as f:
